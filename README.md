@@ -8,7 +8,7 @@ I recently completed my PhD in Earth Sciences at Royal Holloway, University of L
 
 I also gained significant experience of computational modelling throughout my PhD, where I wrote Bash and Python scripts to automatically run Fortran light scattering codes (DDSCAT/MSTM) on Linux workstations. Additionally, I used Python and MATLAB extensively throughout the PhD for data analysis, and wrote a program using TKinter and Matplotlib to visualise datasets and perform peak detection. I really enjoyed using programming for my scientific studies, and I am currently looking for roles that will allow me to continue my development in data science and computational modelling.
 
-<img src="https://user-images.githubusercontent.com/51411120/221410345-2fea7525-eb79-43fd-bb0f-b514126fc787.png" width="400" height="400">                                                  <img src="https://user-images.githubusercontent.com/51411120/221410432-29e5b4ed-fe5c-445d-885c-c00d585c720a.png" width="520" height="400">
+<img src="https://user-images.githubusercontent.com/51411120/221410432-29e5b4ed-fe5c-445d-885c-c00d585c720a.png" width="520" height="400">
 
 ## Current Projects
 
