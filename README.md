@@ -11,13 +11,17 @@ I also gained significant experience of computational modelling throughout my Ph
 ## Contact Information
 
 Name - **Connor Barker** (*he/him*)
+
 Email Address - connor.barker211@gmail.com
+
 LinkedIn - https://www.linkedin.com/in/connorbarker/
 
 ## Skills and Competencies
 
 Skills - Data Analysis, Scientific Research
+
 Programming Languages - Python, NumPy, SciPy, Matplotlib, Tkinter, MATLAB, LabVIEW, Git
+
 Other - Git, Inkscape, ChemBioDraw, LaTeX
 
 ## Current Projects
