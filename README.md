@@ -4,9 +4,7 @@
 
 I am a Research Fellow in Atmospheric Chemistry and Physical Geography at Univeristy College London, using GEOS-Chem to study the environmental impacts of anthropogenic emissions. I have 6 years of experience of using computational programming for scientific research, and I am skilled in computational data analysis and modelling using Python, especially using NumPy, SciPy, Matplotlib and Tkinter, with further proficiency in MATLAB and LabVIEW.
 
-I recently completed my PhD in Earth Sciences at Royal Holloway, University of London, where I investigated the optical properties of atmospheric aerosol using optical trapping and ultraviolet Mie spectroscopy. The research has so far resulted in one publication (DOI: 10.1021/acsanm.2c02683), with a second manuscript submitted and a further three manuscripts prepared. I also worked as a Research Technician at the Science and Technology Facilities Council, undertaking a 3-month project involving the construction, testing, and demonstration of novel STORM super-resolution imaging systems. 
-
-I also gained significant experience of computational modelling throughout my PhD, where I wrote Bash and Python scripts to automatically run Fortran light scattering codes (DDSCAT/MSTM) on Linux workstations. Additionally, I used Python and MATLAB extensively throughout the PhD for data analysis, and wrote a program using TKinter and Matplotlib to visualise datasets and perform peak detection. I really enjoyed using programming for my scientific studies, and I am currently looking for roles that will allow me to continue my development in data science and computational modelling.
+In 2022, I completed my PhD in Earth Sciences at Royal Holloway, University of London, where I investigated the optical properties of atmospheric aerosol using optical trapping and ultraviolet Mie spectroscopy. The research has so far resulted in two publications (DOI: 10.1021/acsanm.2c02683, DOI: 10.1039/D3EA00005B), with a further three manuscripts prepared. I gained significant experience of computational modelling throughout my PhD, where I wrote Bash and Python scripts to automatically run Fortran light scattering codes (DDSCAT/MSTM) on Linux workstations. Additionally, I used Python and MATLAB extensively throughout the PhD for data analysis, and wrote a program using TKinter and Matplotlib to visualise datasets and perform peak detection.
 
 <img src="https://user-images.githubusercontent.com/51411120/221410432-29e5b4ed-fe5c-445d-885c-c00d585c720a.png" width="520" height="400">
 
@@ -18,9 +16,9 @@ SpectraView - A program developed during my PhD to read, analyse, and pick peaks
 
 Skills - Data Analysis, Scientific Research
 
-Programming Languages - Python, NumPy, SciPy, Matplotlib, Tkinter, MATLAB, LabVIEW, Git
+Programming Languages - Python (inc. NumPy, SciPy, Matplotlib, Tkinter, Pandas, ), MATLAB, LabVIEW, Git
 
-Other - Git, Inkscape, ChemBioDraw, LaTeX
+Other - Inkscape, ChemBioDraw, LaTeX
 
 ## Contact Information
 
