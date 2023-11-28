@@ -16,7 +16,7 @@ PeakMie - A program developed during my PhD to read, analyse, and pick peaks in 
 
 Skills - Data Analysis, Scientific Research
 
-Programming Languages - Python (inc. NumPy, SciPy, Matplotlib, Tkinter, Pandas, ), MATLAB, LabVIEW, Git
+Programming Languages - Python (inc. NumPy, SciPy, Matplotlib, Tkinter, Pandas), MATLAB, LabVIEW, Git
 
 Other - Inkscape, ChemBioDraw, LaTeX
 
