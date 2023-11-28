@@ -10,7 +10,7 @@ In 2022, I completed my PhD in Earth Sciences at Royal Holloway, University of L
 
 ## Current Projects
 
-SpectraView - A program developed during my PhD to read, analyse, and pick peaks in experimental light scattering spectra. Written using TKinter, NumPy, SciPy, and Matplotlib. GitHub Repository: https://github.com/cbarker211/SpectraView
+PeakMie - A program developed during my PhD to read, analyse, and pick peaks in experimental light scattering spectra. Written using TKinter, NumPy, SciPy, and Matplotlib. GitHub Repository: https://github.com/cbarker211/PeakMie
 
 ## Skills and Competencies
 
